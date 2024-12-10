@@ -9,8 +9,11 @@ for i in range(n):
         total_even += number
         quantity_even += 1
 
-average = total_even / quantity_even
+try:
+    average = total_even / quantity_even
 
-print(
-    f"Soma total dos números pares: {total_even}\nA média aritimética dos números pares é: {average}"
-)
+    print(
+        f"Soma total dos números pares: {total_even}\nA média aritimética dos números pares é: {average}"
+    )
+except ZeroDivisionError:
+    print("Impossível dividir por zero.")
