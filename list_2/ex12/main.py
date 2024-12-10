@@ -7,4 +7,8 @@ for i in range(n):
     total += number
     quantity += 1
 
-print(f"Soma: {total}\nA média aritimética é: {total / quantity}")
+try:
+    average = total / quantity
+    print(f"Soma: {total}\nA média aritimética é: {average}")
+except ZeroDivisionError:
+    print("Impossível dividir por zero.")
