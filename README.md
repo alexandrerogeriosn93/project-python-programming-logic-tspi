@@ -6,10 +6,6 @@ Este repositório tem como objetivo o desenvolvimento de soluções para problem
 
 Além disso, visa praticar e aprimorar minhas habilidades em lógica de programação, melhorar meu domínio de Python e ajudar iniciantes no aprendizado de programação.
 
-## Aviso importante
-
-Os exercícios, de autoria do professor Dr. [Nelio Alves](https://devsuperior.com.br/) com adaptações da lista (a partir do exercício 15 até o final da lista 1) do professor David Menoti - UFMG, foram propostos na disciplina de Lógica de Programação, ministrada no primeiro período do curso de Tecnologia em Sistemas para Internet, em 2013, no Instituto Federal do Triângulo Mineiro – campus Uberlândia Centro [IFTM](https://iftm.edu.br/uberlandiacentro/).
-
 ## Ambiente de desenvolvimento
 
 - Sistema operacional: [Ubuntu 24.04 lts](https://ubuntu.com/download/desktop)
@@ -18,6 +14,24 @@ Os exercícios, de autoria do professor Dr. [Nelio Alves](https://devsuperior.co
 - Terminal: [Fish](https://fishshell.com/)
 - Prompt de linha de comando: [Starship](https://starship.rs/)
 - Extensão para a formatação do código Python: [Ruff](https://astral.sh/ruff)
+
+## Tópicos abordados
+
+- Raciocínio lógico
+- Variáveis e seus tipos
+- Estruturas condicionais
+- Estruturas de repetição
+- Vetores
+- Matrizes
+- Funções
+
+## Avisos importantes
+
+Os exercícios, de autoria do professor Dr. [Nelio Alves](https://devsuperior.com.br/) com adaptações da lista (a partir do exercício 15 até o final da lista 1) do professor David Menoti - UFMG, foram propostos na disciplina de Lógica de Programação, ministrada no primeiro período do curso de Tecnologia em Sistemas para Internet, em 2013, no Instituto Federal do Triângulo Mineiro – campus Uberlândia Centro [IFTM](https://iftm.edu.br/uberlandiacentro/).
+
+As soluções apresentadas para as questões, tendem ser mais "simples" para ajudar quem esteja no início dos estudos.
+
+Cada branch refere-se a uma lista de exercício.
 
 ## Listas de exercícios resolvidos
 
